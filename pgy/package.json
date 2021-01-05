@@ -11,7 +11,7 @@
     "test": "node build/test.js"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "clipboard": "^1.7.1",
     "echarts": "^3.8.5",
     "install": "^0.10.2",
